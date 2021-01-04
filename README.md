@@ -4,6 +4,11 @@ A collection of `image-classification`, `detection`, `segmentation` models on Py
 ## Classification Models
 There may be some differences between models for `cifar100` and `imagenet`
 
+if you want to know the information of the network, here is an example:
+```bash
+$ python counter.py --dataset cifar100 --model resnet18
+```
+
 ### 1. Classic Network
 Classic network for higher performance on cifar100 or imagenet
 
