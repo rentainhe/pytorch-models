@@ -41,9 +41,11 @@ Efficient Network for mobile equipments
 |dataset|network|params|
 |:---:|:---:|:---:
 |cifar100|mobilenet|3.32M
+|cifar100|mobilenetV3|1.36M
 
 #### Implemented Network
 - mobilenet [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications](https://arxiv.org/abs/1704.04861)
+- mobilenetv3 [Searching for MobileNetV3](https://arxiv.org/pdf/1905.02244.pdf)
 
 ### 3. Weight Network
 `Condconv` `Weightnet` series
