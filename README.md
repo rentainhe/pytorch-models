@@ -41,7 +41,10 @@ Efficient Network for mobile equipments
 |dataset|network|params|
 |:---:|:---:|:---:
 |cifar100|mobilenet|3.32M
-|cifar100|mobilenetV3|1.36M
+
+|dataset|network|params|
+|:---:|:---:|:---:
+|imagenet|mobilenetV3|1.36M
 
 #### Implemented Network
 - mobilenet [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications](https://arxiv.org/abs/1704.04861)
