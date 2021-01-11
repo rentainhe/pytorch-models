@@ -14,8 +14,9 @@ Network information list
 - [efficient network](https://github.com/rentainhe/pytorch-models/blob/master/model_information/efficient-networks.md) (`mobilenet`, `shufflenet`...)
 - [weight network](https://github.com/rentainhe/pytorch-models/blob/master/model_information/weight-networks.md) (`condconv`, `weightnet`...)
 
-## Learning Notes
-|model|paper|conference|year|my notes|
-|:---:|:---:|:---:|:---:|:---:
-|__Octave Conv__|[Drop an Octave: Reducing Spatial Redundancy in Convolutional Neural Networks with Octave Convolution](https://export.arxiv.org/pdf/1904.05049)|ICCV|2019|[notes]()
 
+## Learning Notes
+|model|paper|conference|year|my notes|original github|
+|:---:|:---:|:---:|:---:|:---:|:---:
+| __Octave Conv__|[Drop an Octave: Reducing Spatial Redundancy in Convolutional Neural Networks with Octave Convolution](https://export.arxiv.org/pdf/1904.05049)|ICCV|2019|[notes]()|[github]()|
+|__SPConv__|[Split to Be Slim: An Overlooked Redundancy in Vanilla Convolution](https://arxiv.org/abs/2006.12085)|IJCAI|2020|[notes]()|[github]()
