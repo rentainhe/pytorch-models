@@ -9,9 +9,10 @@ if you want to know the information of the network, here is an example:
 $ python counter.py --dataset cifar100 --model resnet18
 ```
 ## Content
-- [classic network]() (`resnet`, `resnext`... )
-- [efficient network]()(`mobilenet`, `shufflenet`...)
-- [weight network]()(`condconv`, `weightnet`...)
+Network information list
+- [classic network](https://github.com/rentainhe/pytorch-models/blob/master/model_information/classic-networks.md)  (`resnet`, `resnext`... )
+- [efficient network](https://github.com/rentainhe/pytorch-models/blob/master/model_information/efficient-networks.md) (`mobilenet`, `shufflenet`...)
+- [weight network](https://github.com/rentainhe/pytorch-models/blob/master/model_information/weight-networks.md) (`condconv`, `weightnet`...)
 
 ## Learning Notes
 |model|paper|conference|year|my notes|
