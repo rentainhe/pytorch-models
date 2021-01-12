@@ -8,6 +8,15 @@ if you want to know the information of the network, here is an example:
 ```bash
 $ python counter.py --dataset cifar100 --model resnet18
 ```
+
+The supported net args are:
+```
+resnet18  resnet34  resnet50  resnet101  resnet152
+mobilenet mobilenetv3
+resnext50  resnext101  resnext152
+Octresnet50  Octresnet101  Octresnet152
+```
+
 ## Content
 Network information list
 - [classic network](https://github.com/rentainhe/pytorch-models/blob/master/model_information/classic-networks.md)  (`resnet`, `resnext`... )
