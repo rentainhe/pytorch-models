@@ -6,6 +6,8 @@
 
 将输入的`feature map`分解为两组，可以按照`channel`分解为高频部分(high)和低频部分(low), 然后分成`两路`处理, 将低频channel的空间分辨率减半, 分别进行`conv`操作, 两组频率特征会通过`down-sample`和`up-sample`进行交互.
 
+看源码可知, 在 __整个网络之中__ 都存在两路特征, 不断地进行交互, 网络的第一层 ( __first OctConv__ ) 将特征进行分解, 中间层 ( __Middle OcvConv__ ) 用于处理两路特征并完成特征交互, 最后一层 ( __Last OctConv__ ) 用于将特征汇聚.
+
 ### Overview
 ![](../../figs/octave_conv.png)
 图中四组操作解析(从上至下):
@@ -18,7 +20,7 @@
 
 ### Code
 #### 1. First-Octave-Conv
-First `Octave Conv` layer, change the input feature map into `high frequency sub-channels` and `low frequency sub-channels`, controlled by `alpha`
+First `Octave Conv` layer, used in `the first layer` of the network ,change the input feature map into `high frequency sub-channels` and `low frequency sub-channels`, controlled by `alpha`
 
 分为两个path:
 - if stride > 2: input -> AvgPool2d
