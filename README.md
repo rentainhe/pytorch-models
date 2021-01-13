@@ -35,6 +35,8 @@ Network information list
 |:---:|:---:|:---:|:---:|:---:|:---:
 | __Octave Conv__|[Drop an Octave: Reducing Spatial Redundancy in Convolutional Neural Networks with Octave Convolution](https://export.arxiv.org/pdf/1904.05049)|ICCV|2019|[notes](https://github.com/rentainhe/pytorch-models/blob/master/notes/efficient-networks/Octave%20Conv.md)|[github](https://github.com/lxtGH/OctaveConv_pytorch)|
 |__SPConv__|[Split to Be Slim: An Overlooked Redundancy in Vanilla Convolution](https://arxiv.org/abs/2006.12085)|IJCAI|2020|[notes](https://github.com/rentainhe/pytorch-models/blob/master/notes/efficient-networks/SPConv.md)|[github](https://github.com/qiulinzhang/SPConv.pytorch)
+| __Deformable ConvNet__ |[Deformable Convolutional Networks](https://arxiv.org/abs/1703.06211)|ICCV(oral)|2017|...|[github](https://github.com/msracver/Deformable-ConvNets)
+| __Deformable ConvNet v2__ |[Deformable ConvNets v2: More Deformable, Better Results](https://arxiv.org/abs/1811.11168)|arxiv|2018|...|[original](https://github.com/msracver/Deformable-ConvNets) [pytorch](https://github.com/4uiiurz1/pytorch-deform-conv-v2)
 
 ## Addition
 如需转载，请标明出处
