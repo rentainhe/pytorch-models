@@ -9,18 +9,18 @@ if you want to know the information of the network, here is an example:
 $ python counter.py --dataset cifar100 --model resnet18
 ```
 
-The supported net args are:
+The supported `--model` args are:
 - classic networks
 ```
-resnet18 (34 50 101 152)
-resnext50 (101 152)
+resnet18 resnet34 resnet50 resnet101 resnet152
+resnext50 resnext101 resnext152
 ```
 
 - efficient networks
 ```
 mobilenet mobilenetv3
-Octresnet50 (101 152)
-spresnet18 (34 50 101 152)
+Octresnet50 Octresnet101 Octresnet152
+spresnet18 spresnet34 spresnet50 spresnet101 spresnet152
 ```
 
 
