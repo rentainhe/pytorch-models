@@ -17,6 +17,12 @@ resnext50  resnext101  resnext152
 Octresnet50  Octresnet101  Octresnet152
 ```
 
+## Structure
+- components: put some `module` in here.
+- figs: pictures
+- models: the main networks
+- notes: my learning notes
+
 ## Content
 Network information list
 - [classic network](https://github.com/rentainhe/pytorch-models/blob/master/model_information/classic-networks.md)  (`resnet`, `resnext`... )
@@ -28,4 +34,7 @@ Network information list
 |model|paper|conference|year|my notes|original github|
 |:---:|:---:|:---:|:---:|:---:|:---:
 | __Octave Conv__|[Drop an Octave: Reducing Spatial Redundancy in Convolutional Neural Networks with Octave Convolution](https://export.arxiv.org/pdf/1904.05049)|ICCV|2019|[notes](https://github.com/rentainhe/pytorch-models/blob/master/notes/efficient-networks/Octave%20Conv.md)|[github](https://github.com/lxtGH/OctaveConv_pytorch)|
-|__SPConv__|[Split to Be Slim: An Overlooked Redundancy in Vanilla Convolution](https://arxiv.org/abs/2006.12085)|IJCAI|2020|[notes]()|[github](https://github.com/qiulinzhang/SPConv.pytorch)
+|__SPConv__|[Split to Be Slim: An Overlooked Redundancy in Vanilla Convolution](https://arxiv.org/abs/2006.12085)|IJCAI|2020|[notes](https://github.com/rentainhe/pytorch-models/blob/master/notes/efficient-networks/SPConv.md)|[github](https://github.com/qiulinzhang/SPConv.pytorch)
+
+## Addition
+如需转载，请标明出处
