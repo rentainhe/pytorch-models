@@ -10,19 +10,25 @@ $ python counter.py --dataset cifar100 --model resnet18
 ```
 
 The supported net args are:
+- classic networks
 ```
-resnet18  resnet34  resnet50  resnet101  resnet152
-mobilenet mobilenetv3
-resnext50  resnext101  resnext152
-Octresnet50  Octresnet101  Octresnet152
-spresnet18 spresnet34 spresnet50 spresnet101 spresnet152
+resnet18 (34 50 101 152)
+resnext50 (101 152)
 ```
 
+- efficient networks
+```
+mobilenet mobilenetv3
+Octresnet50 (101 152)
+spresnet18 (34 50 101 152)
+```
+
+
 ## Structure
-- components: put some `module` in here.
-- figs: pictures
-- models: the main networks
-- notes: my learning notes
+- `/components`: put some `module` in here.
+- `/figs`: pictures
+- `/models`: the main networks
+- `/notes`: my learning notes
 
 ## Content
 Network information list
