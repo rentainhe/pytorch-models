@@ -15,6 +15,7 @@ resnet18  resnet34  resnet50  resnet101  resnet152
 mobilenet mobilenetv3
 resnext50  resnext101  resnext152
 Octresnet50  Octresnet101  Octresnet152
+spresnet18 spresnet34 spresnet50 spresnet101 spresnet152
 ```
 
 ## Structure
