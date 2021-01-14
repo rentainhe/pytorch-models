@@ -3,7 +3,7 @@
 本质上是`multi-path`的处理问题, 在CNN中`redundant feature maps`是很常见的现象, 作者提出了一种方法来处理这种pattern, 并且需要更少的计算.
 
 ### Overview
-![](../../figs/SPConv.png)
+![](../../figs/conv/SPConv.png)
 整体分成三个部分
 - feature split
 - conv

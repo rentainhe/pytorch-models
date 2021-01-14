@@ -9,7 +9,7 @@
 看源码可知, 在 __整个网络之中__ 都存在两路特征, 不断地进行交互, 网络的第一层 ( __first OctConv__ ) 将特征进行分解, 中间层 ( __Middle OcvConv__ ) 用于处理两路特征并完成特征交互, 最后一层 ( __Last OctConv__ ) 用于将特征汇聚.
 
 ### Overview
-![](../../figs/octave_conv.png)
+![](../../figs/conv/octave_conv.png)
 图中四组操作解析(从上至下):
 - high: 高频channel
 - low: 低频channel
