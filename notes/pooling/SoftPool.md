@@ -34,7 +34,7 @@ e_x = torch.sum(torch.exp(x), dim=1, keepdim=True)
 ```
 这样可以得到每个grid中, 所有channel值求和后进行exp操作的值
 
-- 实现softmax:
+- softmax:
 ```
 # split softmax into two parts, sum and divide
 # Use avg_pool instead of unfold operation
