@@ -45,8 +45,9 @@ Network information list
 |__SPConv__|[Split to Be Slim: An Overlooked Redundancy in Vanilla Convolution](https://arxiv.org/abs/2006.12085)|IJCAI|2020|[notes](https://github.com/rentainhe/pytorch-models/blob/master/notes/efficient-networks/SPConv.md)|[github](https://github.com/qiulinzhang/SPConv.pytorch)
 | __Deformable ConvNet__ |[Deformable Convolutional Networks](https://arxiv.org/abs/1703.06211)|ICCV(oral)|2017|...|[github](https://github.com/msracver/Deformable-ConvNets)
 | __Deformable ConvNet v2__ |[Deformable ConvNets v2: More Deformable, Better Results](https://arxiv.org/abs/1811.11168)|arxiv|2018|...|[original](https://github.com/msracver/Deformable-ConvNets) [pytorch](https://github.com/4uiiurz1/pytorch-deform-conv-v2)
+| __ACNet__ |[ACNet: Strengthening the Kernel Skeletons for Powerful CNN via Asymmetric Contolution Blocks](https://arxiv.org/pdf/1908.03930.pdf)|ICCV|2019|[notes](https://github.com/rentainhe/pytorch-models/blob/master/notes/efficient-networks/ACNet.md)|[github](https://github.com/DingXiaoH/ACNet)
 | __RepVGG__ |[RepVGG: Making VGG-style ConvNets Great Again](https://arxiv.org/abs/2101.03697)|arxiv|2021|...|[github](https://github.com/DingXiaoH/RepVGG)
-| __ACNet__ |[ACNet: Strengthening the Kernel Skeletons for Powerful CNN via Asymmetric Contolution Blocks](https://arxiv.org/pdf/1908.03930.pdf)|ICCV|2019|...|[github](https://github.com/DingXiaoH/ACNet)
+
 
 ### 2. Pooling
 |pool|paper|conference|year|my notes|original github|
