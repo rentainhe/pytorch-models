@@ -21,6 +21,7 @@ Conv1(X) + Conv2(X) = (Conv1 + Conv2)(X)
 ### Details
 #### 1. BatchNorm Fusion
 ![](../../figs/conv/ACNet/ACNet_3.png)
+
 在三个不同的branch都使用了BatchNorm, 在测试阶段整合三个BatchNorm的参数, 得到等价的结果
 
 #### 2. Why does it work?
