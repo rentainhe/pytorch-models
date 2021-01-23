@@ -47,7 +47,7 @@ Network information list
 | __Deformable ConvNet v2__ |[Deformable ConvNets v2: More Deformable, Better Results](https://arxiv.org/abs/1811.11168)|arxiv|2018|...|[original](https://github.com/msracver/Deformable-ConvNets) [pytorch](https://github.com/4uiiurz1/pytorch-deform-conv-v2)
 | __ACNet__ |[ACNet: Strengthening the Kernel Skeletons for Powerful CNN via Asymmetric Contolution Blocks](https://arxiv.org/pdf/1908.03930.pdf)|ICCV|2019|[notes](https://github.com/rentainhe/pytorch-models/blob/master/notes/efficient-networks/ACNet.md)|[github](https://github.com/DingXiaoH/ACNet)
 | __RepVGG__ |[RepVGG: Making VGG-style ConvNets Great Again](https://arxiv.org/abs/2101.03697)|arxiv|2021|...|[github](https://github.com/DingXiaoH/RepVGG)
-
+| __ECANet__ |[ECA-Net: Efficient Channel Attention for Deep Convolutional Neural Networks](https://arxiv.org/abs/1910.03151)|CVPR|2020| ... |[github](https://github.com/BangguWu/ECANet)
 
 ### 2. Pooling
 |pool|paper|conference|year|my notes|original github|
