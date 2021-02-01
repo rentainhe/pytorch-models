@@ -49,7 +49,12 @@ Network information list
 | __RepVGG__ |[RepVGG: Making VGG-style ConvNets Great Again](https://arxiv.org/abs/2101.03697)|arxiv|2021|...|[github](https://github.com/DingXiaoH/RepVGG)
 | __ECANet__ |[ECA-Net: Efficient Channel Attention for Deep Convolutional Neural Networks](https://arxiv.org/abs/1910.03151)|CVPR|2020| ... |[github](https://github.com/BangguWu/ECANet)
 
-### 2. Pooling
+### 2. Vision Transformer
+|model|paper|conference|year|my notes|original github|
+|:---:|:---:|:---:|:---:|:---:|:---:
+| __T2T_ViT__ |[Tokens-to-Token ViT: Training Vision Transformers from Scratch on Imagenet](https://arxiv.org/abs/2101.11986)|arxiv|2021| [notes] |[github](https://github.com/yitu-opensource/T2T-ViT)
+
+### 3. Pooling
 |pool|paper|conference|year|my notes|original github|
 |:---:|:---:|:---:|:---:|:---:|:---:
 | __SoftPool__|[Refining activation downsampling with SoftPool](https://arxiv.org/abs/2101.00440)|arxiv|2021|[notes](https://github.com/rentainhe/pytorch-models/blob/master/notes/pooling/SoftPool.md)|[github](https://github.com/alexandrosstergiou/SoftPool#)
