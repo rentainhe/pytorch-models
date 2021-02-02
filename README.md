@@ -52,7 +52,9 @@ Network information list
 ### 2. Vision Transformer
 |model|paper|conference|year|my notes|original github|
 |:---:|:---:|:---:|:---:|:---:|:---:
-| __T2T_ViT__ |[Tokens-to-Token ViT: Training Vision Transformers from Scratch on Imagenet](https://arxiv.org/abs/2101.11986)|arxiv|2021| [notes] |[github](https://github.com/yitu-opensource/T2T-ViT)
+| __T2T_ViT__ |[Tokens-to-Token ViT: Training Vision Transformers from Scratch on Imagenet](https://arxiv.org/abs/2101.11986)|arxiv|2021| [notes](https://github.com/rentainhe/pytorch-models/blob/master/notes/vision-transformer/T2T_ViT.md) |[github](https://github.com/yitu-opensource/T2T-ViT)
+| __BoTNet__ |[Bottleneck Transformers for Visual Recognition](https://arxiv.org/pdf/2101.11605.pdf)|arxiv|2021| ... |[github](https://github.com/leaderj1001/BottleneckTransformers)
+
 
 ### 3. Pooling
 |pool|paper|conference|year|my notes|original github|
