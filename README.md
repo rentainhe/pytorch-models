@@ -61,6 +61,14 @@ Network information list
 |:---:|:---:|:---:|:---:|:---:|:---:
 | __SoftPool__|[Refining activation downsampling with SoftPool](https://arxiv.org/abs/2101.00440)|arxiv|2021|[notes](https://github.com/rentainhe/pytorch-models/blob/master/notes/pooling/SoftPool.md)|[github](https://github.com/alexandrosstergiou/SoftPool#)
 
+### 4. Transformer
+|pool|paper|conference|year|my notes|original github|
+|:---:|:---:|:---:|:---:|:---:|:---:
+| __The Sparse Transformer__|[Generating Long Sequences with Sparse Transformers](https://arxiv.org/pdf/1904.10509.pdf)|arxiv|2019| ... |[github](https://github.com/openai/sparse_attention)
+| __Informer__|[Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting](https://arxiv.org/abs/2012.07436)|AAAI(best paper)|2021| ... |[github](https://github.com/zhouhaoyi/Informer2020)
+
+
+
 There are some naive tests on different pooling method, you can see my another [repo](https://github.com/rentainhe/pytorch-pooling)
 ## Addition
 如需转载，请标明出处
