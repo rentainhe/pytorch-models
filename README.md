@@ -48,6 +48,7 @@ Network information list
 | __ACNet__ |[ACNet: Strengthening the Kernel Skeletons for Powerful CNN via Asymmetric Contolution Blocks](https://arxiv.org/pdf/1908.03930.pdf)|ICCV|2019|[notes](https://github.com/rentainhe/pytorch-models/blob/master/notes/efficient-networks/ACNet.md)|[github](https://github.com/DingXiaoH/ACNet)
 | __RepVGG__ |[RepVGG: Making VGG-style ConvNets Great Again](https://arxiv.org/abs/2101.03697)|arxiv|2021|...|[github](https://github.com/DingXiaoH/RepVGG)
 | __ECANet__ |[ECA-Net: Efficient Channel Attention for Deep Convolutional Neural Networks](https://arxiv.org/abs/1910.03151)|CVPR|2020| ... |[github](https://github.com/BangguWu/ECANet)
+| __MobileNetV2__ |[MobileNetV2: Inverted Residuals and Linear Bottlenecks](https://arxiv.org/abs/1801.04381)|arxiv|2018| ... | [github](https://github.com/tonylins/pytorch-mobilenet-v2)
 
 ### 2. Vision Transformer
 |model|paper|conference|year|my notes|original github|
