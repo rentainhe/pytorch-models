@@ -18,6 +18,7 @@ Depth-wise存在的问题:
 侧面反应了ResNet比VGG好的地方, ResNet通过残差结构很好地缓解了神经元死亡, 特征退化的问题
 
 __Inverted Residual Block Design__:
+
 ![](../../figs/conv/MobileNetV2/block1.png)
 
 ![](../../figs/conv/MobileNetV2/block2.png)
