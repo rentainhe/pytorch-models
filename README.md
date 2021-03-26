@@ -49,6 +49,7 @@ Network information list
 | __RepVGG__ |[RepVGG: Making VGG-style ConvNets Great Again](https://arxiv.org/abs/2101.03697)|arxiv|2021|...|[github](https://github.com/DingXiaoH/RepVGG)
 | __ECANet__ |[ECA-Net: Efficient Channel Attention for Deep Convolutional Neural Networks](https://arxiv.org/abs/1910.03151)|CVPR|2020| ... |[github](https://github.com/BangguWu/ECANet)
 | __MobileNetV2__ |[MobileNetV2: Inverted Residuals and Linear Bottlenecks](https://arxiv.org/abs/1801.04381)|arxiv|2018| [notes](https://github.com/rentainhe/pytorch-models/blob/master/notes/classic-networks/mobilenetv2.md) | [github](https://github.com/tonylins/pytorch-mobilenet-v2)
+| __Triplet Attention__ |[Rotate to Attend: Convolutional Triplet Attention Module](https://arxiv.org/abs/2010.03045)|WACV|2021| [notes](https://zhuanlan.zhihu.com/p/360028132) | [github](https://github.com/LandskapeAI/triplet-attention)
 
 ### 2. Vision Transformer
 |model|paper|conference|year|my notes|original github|
